@@ -11,7 +11,7 @@ This repository contains my Week 1 work on digital design foundations, including
 - Universal gate (NAND/NOR) implementations
 
 ## Deliverables
-- [x] 50 number system conversion problems
+- [x] 30+ number system conversion problems
 - [x] 20 Boolean algebra proofs
 - [x] 50 K-map simplification problems
 - [x] 5 CMOS inverter analysis problems
