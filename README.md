@@ -13,7 +13,7 @@ This repository contains my Week 1 work on digital design foundations, including
 ## Deliverables
 - [x] 30+ number system conversion problems
 - [x] 20 Boolean algebra proofs
-- [x] 50 K-map simplification problems
+- [x] 30 K-map simplification problems
 - [x] 5 CMOS inverter analysis problems
 - [x] 10 universal gate implementation problems
 - [x] HDLBits practice (Getting Started, Binary Numbers, Boolean Algebra)
